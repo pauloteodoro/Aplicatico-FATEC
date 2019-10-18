@@ -1,4 +1,4 @@
-# Aplicatico-FATEC
+# Aplicatico-FATEC ( " Ainda em Desenvolvimento " ).
 
 
 ## App para alunos Fatec- Mogi das Cruzes, para facilitar a vida do estudante,o convivio e relação aluno e faculdade.onde os alunos e faculdade poderão:
